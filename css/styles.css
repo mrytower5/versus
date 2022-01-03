@@ -100,7 +100,20 @@ p {
   color: gray;
 }
 
+/* Bottom Div */
+.bottom-banner {
+  color: #FFFFFF;
+  height: 100px;
+  position: relative; 
+  z-index: 1;
+}
 
+.bottom-banner {
+  color: #FFFFFF;
+  height: 100px;
+  position: relative; 
+  z-index: 1;
+}
 
 .footer {
   padding-top: 10%;
