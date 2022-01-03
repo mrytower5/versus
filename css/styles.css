@@ -37,6 +37,7 @@ p {
   line-height: 1.5;
   font-size: 3rem;
   font-weight: 700;
+  padding-top: 100px; 
 }
 
 .section-heading {
@@ -44,24 +45,6 @@ p {
   line-height: 1.5rem;
 }
 
-/* Navigation Bar */
-/* .navbar {
-}
-
-.navbar-brand {
-  font-size: 1.85rem;
-  font-family: "Ubuntu";
-}
-
-.nav-item {
-  padding: 0 18px;
-}
-
-.nav-link {
-  font-family: "Montserrat";
-  font-size: 1.2rem;
-  font-weight: lighter;
-} */
 
 /* Logo */
 .logo {
